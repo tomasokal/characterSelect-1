@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/characterSelect-1/static/css/main.30c3c8a4.css",
+    "main.js": "/characterSelect-1/static/js/main.fad12a35.js",
+    "index.html": "/characterSelect-1/index.html",
+    "main.30c3c8a4.css.map": "/characterSelect-1/static/css/main.30c3c8a4.css.map",
+    "main.fad12a35.js.map": "/characterSelect-1/static/js/main.fad12a35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30c3c8a4.css",
+    "static/js/main.fad12a35.js"
+  ]
+}
